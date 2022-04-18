@@ -64,3 +64,5 @@ typings/
 ~$*.pptx
 
 package-lock.json
+
+.idea/
